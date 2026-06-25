@@ -1,3 +1,42 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=An%C3%A1lisis+Cr%C3%ADtico+2026;%C2%BFFHacia+el+%22Bot%C3%B3n+Rojo%22%3F;Ransomware+%7C+IA+%7C+Geopol%C3%ADtica;Infraestructura+cr%C3%ADtica+%7C+Nuclear;Cadenas+de+suministro+%7C+OT%2FICS;Colapso+sist%C3%A9mico+%7C+Resiliencia;94%25+IA+como+motor+%7C+87%25+vulnerabilidad;No+es+paranoia%2C+es+an%C3%A1lisis;Nos+espera+mucho+trabajo" alt="Typing animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Informe-Ciberseguridad%202026-red?style=for-the-badge" alt="Informe">
+  <img src="https://img.shields.io/badge/Idioma-Español-red?style=for-the-badge" alt="Idioma">
+  <img src="https://img.shields.io/badge/Estado-Completo-brightgreen?style=for-the-badge" alt="Estado">
+  <img src="https://img.shields.io/badge/Licencia-CC%20BY--NC--ND%204.0-blue?style=for-the-badge" alt="Licencia">
+  <img src="https://img.shields.io/badge/Autor-Condor2026-orange?style=for-the-badge" alt="Autor">
+</p>
+
+---
+
+<div align="center">
+  <h3>⚠️ AVISO IMPORTANTE</h3>
+  <p>
+    <strong>Este es un análisis de opinión con fines educativos y de concienciación.</strong><br>
+    No constituye asesoramiento legal, técnico ni de seguridad.<br>
+    Para más detalles, consulte el archivo <a href="DISCLAIMER.md">DISCLAIMER.md</a>.
+  </p>
+</div>
+
+---
+
+# Análisis Crítico de la Ciberseguridad Global en 2026 – ¿Hacia el "Botón Rojo"?
+
+**Autor:** Condor2026  
+**Fecha:** 25 de junio de 2026  
+**Versión:** 1.0
+
+---
+
+## 📋 Resumen Ejecutivo
+
+...
+
 # Análisis Crítico de la Ciberseguridad Global en 2026 – ¿Hacia el "Botón Rojo"?
 
 **Autor:** Condor2026  
