@@ -1,7 +1,8 @@
+🌐
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=An%C3%A1lisis+Cr%C3%ADtico+2026;%C2%BFHacia+el+%22Bot%C3%B3n+Rojo%22%3F;Ransomware+%7C+IA+%7C+Geopol%C3%ADtica;Infraestructura+cr%C3%ADtica+%7C+Nuclear;Cadenas+de+suministro+%7C+OT%2FICS;Colapso+sist%C3%A9mico+%7C+Resiliencia;94%25+IA+como+motor+%7C+87%25+vulnerabilidad;No+es+paranoia%2C+es+an%C3%A1lisis;Nos+espera+mucho+trabajo" alt="Typing animation" />
 </p>
-
+🌐
 ---
 
 <p align="center">
@@ -26,7 +27,7 @@
 ---
 # Análisis Crítico de la Ciberseguridad Global en 2026 – ¿Hacia el "Botón Rojo"?
 
-**Autor:** Condor2026  
+**Autor:** Condor2026  🦅
 **Fecha:** 25 de junio de 2026  actualizado el 27 de julio de 2026.
 **Versión:** 2.0 (Edición Ampliada)
 
@@ -315,6 +316,6 @@ El "botón rojo" en este contexto podría ser un ataque que cause **disrupción 
 
 ---
 
-**Nos espera mucho trabajo.**
+**Nos espera mucho trabajo.**🌐
 
-**Condor2026**
+🦅**Condor2026**🦅
